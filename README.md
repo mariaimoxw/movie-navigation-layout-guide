@@ -1,2 +1,15 @@
 # movie-navigation-layout-guide
 本项目专门记录电影类网站的导航结构与页面层级关系，通过分析栏目划分方式、内链分布逻辑及关键词布局策略，形成系统化文字档案，辅助研究页面抓取效率与展示效果。仓库不包含影视播放或下载内容，仅整理公开页面信息。资料来源均为可公开访问页面，仅供结构研究与信息索引参考，不构成合作或背书说明。
+
+飘花电影网（影视网站记录卡）
+
+名称：飘花电影网
+地址：https://www.markmcloughlin.com/
+
+类别：影视
+当前状态：正常
+
+说明：
+该记录卡用于影视站点资料保存，不含推荐含义。
+
+Site notes: https://mariaimoxw.github.io/movie-navigation-layout-guide/
